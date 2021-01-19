@@ -1,0 +1,21 @@
+{
+  "APP": {
+    "DEBUG-MODE": false
+  },
+  "GOOGLE": {
+    "APPLICATION_CREDENTIALS": "auth.json",
+    "PROJECT_ID": "small-talk-nqnu",
+    "DIALOG_FLOW": {
+      "LANG": "ru"
+    }
+  },
+  "DISCORD": {
+    "TOKEN": "токен бота",
+    "PREFIX": ["s."],
+    "ALLOWED_CHANNELS": [513008039511457792, 513009831129513994],
+    "LIFE_CHAT_CHANNELS": [513008039511457792, 513009831129513994],
+    "GAMENAME": "Отвечаю пользователям",
+    "LIFE_CHAT_ANSWER": 0.1
+
+  }
+}
