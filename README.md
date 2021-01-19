@@ -1,7 +1,7 @@
 __Discord Chat Bot - Разговорный чат-бот для вашего Discord сервера основаный на *Rapptz's [discord.py](https://github.com/Rapptz/discord.py)* и *[Dialogflow](https://dialogflow.com/)*.__ 
 -------------
 Бот отвечает пользователю на сообщения, бот работает на одной базе фраз, которые загружены в DialogFlow.
-[](https://i.imgur.com/j8XtuOh.png)
+![](https://i.imgur.com/j8XtuOh.png)
 
 *Примечание. Если вы задете сложный вопрос для бота, то бот ответит эмоджи.*
 
